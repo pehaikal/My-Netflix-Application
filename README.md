@@ -1,4 +1,4 @@
-# Advanced Web, Java, Databases and API Management Project
+# Advanced Web, Java, JavaScript, Databases, and API Management Project
 
 ## Table of Contents
 - Goals
