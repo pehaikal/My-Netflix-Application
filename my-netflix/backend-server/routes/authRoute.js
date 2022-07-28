@@ -1,5 +1,5 @@
 const express = require('express') // Import express
-const Router = express.Router(); // Create a new Router instance
+const Router = express.Router() // Create a new Router instance
 const userModel = require('../models/userModel') // Import user model
 const bcrypt = require('bcrypt') // Import bcrypt module
 const jwt = require('jsonwebtoken') // Import jsonwebtoken module
@@ -18,6 +18,7 @@ Router.post('/register', async (request, response) => {
                 email: email,
                 password: hash
             })
+            
             const user = await User.save()
             return response.status(200).json(user)
 
