@@ -1,6 +1,6 @@
-import "../styles/_itemList.scss";
-import { useState } from "react";
-import { PlayCircleOutline, AddCircleOutline, ThumbUp, ThumbDown } from "@material-ui/icons";
+import "../styles/_itemList.scss"
+import { useState } from "react"
+import { PlayCircleOutline, AddCircleOutline, ThumbUp, ThumbDown } from "@material-ui/icons"
 
 
 export default function ItemList({ index }) {

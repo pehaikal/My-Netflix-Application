@@ -1,14 +1,14 @@
-import "../styles/_categoryList.scss";
-import { useRef, useState } from "react";
-import ItemList from "./ItemList";
-import { ArrowBackIosOutlined, ArrowForwardIosOutlined } from "@material-ui/icons";
+import "../styles/_categoryList.scss"
+import { useRef, useState } from "react"
+import ItemList from "./ItemList"
+import { ArrowBackIosOutlined, ArrowForwardIosOutlined } from "@material-ui/icons"
 
 export default function List() {
   
   const [isMoved, setIsMoved] = useState(false);
   const [slideNumber, setSlideNumber] = useState(0);
 
-  const listRef = useRef();
+  const listRef = useRef()
 
   const handleClick = (direction) => {
     setIsMoved(true);
@@ -16,13 +16,13 @@ export default function List() {
     let distance = listRef.current.getBoundingClientRect().x - 50;
 
     if (direction === "left" && slideNumber > 0) {
-      setSlideNumber(slideNumber - 1);
-      listRef.current.style.transform = `translateX(${230 + distance}px)`;
+      setSlideNumber(slideNumber - 1)
+      listRef.current.style.transform = `translateX(${230 + distance}px)`
     }
 
     if (direction === "right" && slideNumber < 5) {
-      setSlideNumber(slideNumber + 1);
-      listRef.current.style.transform = `translateX(${-230 + distance}px)`;
+      setSlideNumber(slideNumber + 1)
+      listRef.current.style.transform = `translateX(${-230 + distance}px)`
     }
   };
 

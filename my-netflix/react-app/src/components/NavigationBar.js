@@ -1,13 +1,15 @@
-import "../styles/_navigationBar.scss";
-import { useState } from "react";
-import { ArrowDropDown, Notifications, Search } from "@material-ui/icons";
+import "../styles/_navigationBar.scss"
+import { useState } from "react"
+import { ArrowDropDown, Notifications, Search } from "@material-ui/icons"
+import { Link } from "react-router-dom"
+import "../styles/app.scss"
 
 const NavigationBar = () => {
-  const [isScrolled, setIsScrolled] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false)
 
   window.onscroll = () => {
-    setIsScrolled(window.pageYOffset === 0 ? false : true);
-    return () => (window.onscroll = null);
+    setIsScrolled(window.pageYOffset === 0 ? false : true)
+    return () => (window.onscroll = null)
   };
 
   return (<>
@@ -19,9 +21,18 @@ const NavigationBar = () => {
             src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png"
             alt = ""/>
 
-          <span>Welcomepage</span>
-          <span>Series</span>
-          <span>Movies</span>
+          <Link to = "/" className = "link">
+            <span>Welcomepage</span>
+          </Link>
+
+          <Link to = "/series" className = "link">
+            <span>Series</span>
+          </Link>
+          
+          <Link to = "/movies" className = "link">
+            <span>Movies</span>
+          </Link>
+
           <span>New and Popular</span>
           <span>My Recent List</span>
 
@@ -49,4 +60,4 @@ const NavigationBar = () => {
   </>);
 };
 
-export default NavigationBar;
+export default NavigationBar

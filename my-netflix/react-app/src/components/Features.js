@@ -1,5 +1,5 @@
-import '../styles/_features.scss';
-import { InfoOutlined, PlayArrow } from "@material-ui/icons";
+import '../styles/_features.scss'
+import { InfoOutlined, PlayArrow } from "@material-ui/icons"
 
 export default function Featured({ type }) {
 
