@@ -1,0 +1,20 @@
+
+a
+java:S1301;"KReplace this "switch" statement by "if" statements to increase readability.(ÜíÁô
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(üÕÙä
+T
+java:S1854'">Remove this useless assignment to local variable "requestURI".(›§Š®
+Y
+java:S18549"<Remove this useless assignment to local variable "response".(°Ä©8™±ƒåŸ0
+E
+java:S1481'"/Remove this unused "requestURI" local variable.(›§Š®
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÛøÀ°
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(â¾Áúûÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(÷œèàþÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(¥“Ï‡
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(þÍüÈþÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(¨á’ô
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(‚È÷ø
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(ŒÒ°
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(™ß”€ûÿÿÿÿ
