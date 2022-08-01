@@ -49,9 +49,9 @@ A movie is defined by the following characteristics:
 ```json
 {
   "title": "...",
-  "releaseDate": "",
-  "category": "",
-  "movieDirector": ""
+  "releaseDate": "...",
+  "category": "...",
+  "movieDirector": "..."
 }
 ```
 
