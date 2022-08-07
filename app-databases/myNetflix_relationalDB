@@ -24,7 +24,6 @@ create table movie(
 	release_date Date not null
 );
 
-
 create table seen_movie(
 	movie_id integer not null references movie (movie_id),
 	contact_id integer not null references contact (contact_id),
@@ -57,4 +56,13 @@ INSERT INTO movie (movie_id, title, author, movie_type, release_date) VALUES (de
 INSERT INTO seen_movie (movie_id, contact_id, watched_date) VALUES ((select movie_id from movie where title = 'the matrix'), (select contact_id from contact where email_address = 'pierre@mail.com'), '2022-06-28');
 INSERT INTO role_details (role_name) VALUES ('manager');
 INSERT INTO contact_role (contact_id, role_name) VALUES ((select contact_id from contact where email_address = 'pierre@mail.com'), 'manager');
-INSERT INTO billing_address (billing_address_id, contact_id, country, area, street, street_number) VALUES (default, (select contact_id from contact where email_address = 'pierre@mail.com'), 'france', 'vitry-sur-seine', 'rue talma', '37');
+INSERT INTO billing_address (billing_address_id, contact_id, country, area, street, street_number) VALUES (default, (select contact_id from contact where email_address = 'pierre@mail.com'), 'france', 'vitry-sur-seine', 'rue talma', '30');
+
+
+INSERT INTO contact (contact_id, first_name, last_name, phone_number, email_address) VALUES (default, 'nathalie', 'hayek', '0662525721', 'nathalie123@mail.com');
+INSERT INTO login(contact_id, login_password) VALUES ((select contact_id from contact where email_address = 'nathalie123@mail.com'), 'bb234db7ffce39a2222066ef706e486628452a964442f620b2254e3bdb614f91');
+INSERT INTO movie (movie_id, title, author, movie_type, release_date) VALUES (default, 'superman vs batman: dawn of justice', 'Chris Terrio', 'action-adventure', '2016-02-25');
+INSERT INTO seen_movie (movie_id, contact_id, watched_date) VALUES ((select movie_id from movie where title = 'superman vs batman: dawn of justice'), (select contact_id from contact where email_address = 'nathalie123@mail.com'), '2020-07-29');
+INSERT INTO role_details (role_name) VALUES ('manager');
+INSERT INTO contact_role (contact_id, role_name) VALUES ((select contact_id from contact where email_address = 'nathalie123@mail.com'), 'manager');
+INSERT INTO billing_address (billing_address_id, contact_id, country, area, street, street_number) VALUES (default, (select contact_id from contact where email_address = 'nathalie123@mail.com'), 'france', 'villejuif', 'rue de gentilly', '04');
