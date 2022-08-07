@@ -3,7 +3,7 @@ import { useRef, useState } from "react"
 import ItemList from "./ItemList"
 import { ArrowBackIosOutlined, ArrowForwardIosOutlined } from "@material-ui/icons"
 
-export default function List() {
+export default function List({ list }) {
   
   const [isMoved, setIsMoved] = useState(false);
   const [slideNumber, setSlideNumber] = useState(0);
@@ -29,7 +29,7 @@ export default function List() {
   return (
     <div className = "movies-list">
 
-      <span className = "listTitle">Watch Movies Again</span>
+      <span className = "listTitle">{ list.title }</span>
 
       <div className = "wrapper">
 
@@ -39,16 +39,9 @@ export default function List() {
           style = {{ display: !isMoved && "none" }} />
 
         <div className = "container" ref = {listRef}>
-          <ItemList index={0} />
-          <ItemList index={1} />
-          <ItemList index={2} />
-          <ItemList index={3} />
-          <ItemList index={4} />
-          <ItemList index={5} />
-          <ItemList index={6} />
-          <ItemList index={7} />
-          <ItemList index={8} />
-          <ItemList index={9} />
+          {list.content.map((item, index) => (
+            <ItemList index={index} item={item} />
+          ))}
         </div>
 
         <ArrowForwardIosOutlined

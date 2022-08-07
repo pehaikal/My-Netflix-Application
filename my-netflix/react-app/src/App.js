@@ -8,8 +8,9 @@ import { AuthContext } from "./authContext/AuthContext"
 import { Navigate, Route, Routes } from "react-router-dom"
 
 function App() {
-  const user = useContext(AuthContext)
+  // const user = useContext(AuthContext)
   // const user = false
+  const user = true
 
   return (<>
   <Routes>
@@ -18,7 +19,7 @@ function App() {
     <Route exact path = "/" element = { user ? <Welcome /> : <Navigate to = "/register"/>}></Route>
 
     {user && (<>
-    <Route path = "/movies" element = { <Welcome type = "movie"/> }></Route>
+    <Route path = "/movies" element = { <Welcome type = "movie" /> }></Route>
     <Route path = "/series" element = { <Welcome type = "serie"/>}></Route>
     {/* <Route exact path = "/watch" element = { <Watch /> }></Route> */}
     </>)}
