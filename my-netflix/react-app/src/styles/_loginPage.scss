@@ -1,0 +1,109 @@
+// login.scss
+.signIn {
+    width: 100vw; // 100vw = 100% of viewport width
+    height: 100vh; // 100vh = 100% of viewport height
+
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 1) 100%
+      ),
+      url("https://browsecat.net/sites/default/files/netflix-background-128505-385448-2656012.png");
+    
+    background-size: cover; // image will cover the entire viewport
+    position: relative; // position will be relative to the viewport
+  
+    .header {
+      .wrapper {
+        padding: 20px 50px; // 20px padding on top and bottom, 50px padding on left and right
+        display: flex; // display flexbox
+        align-items: center; // align items vertically
+        justify-content: space-between; // justify content horizontally
+  
+        // Netflix logo
+        .netflix-logo {
+          height: 60px;
+        }
+      }
+    }
+  
+    // container will be positioned absolutely, top, left, right, bottom will be 0
+    .container {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: white;
+  
+      form {
+        width: 400px;
+        height: 400px;
+        padding: 15px;
+        margin: auto;
+        border-radius: 15px;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        border-radius: 40px;
+  
+        input {
+          height: 40px;
+          border-radius: 5px;
+          background-color: gray;
+          color: white;
+          padding-left: 10px;
+          font-size: 14px;
+  
+          &::placeholder {
+            color: black;
+            font-style: italic;
+          }
+        }
+  
+        button {
+          height: 40px;
+          border-radius: 5px;
+          background-color: red;
+          color: white;
+          border: none;
+          font-size: 20px;
+          font-weight: bold;
+          margin-top: 10px;
+          cursor: pointer;
+          
+          &:hover {
+            background-color: yellow;
+            color: black;
+          }
+        }
+  
+        span {
+          color: lightgray;
+          font-size: 18px;
+          
+          b {
+            color: white;
+            font-size: 18px;
+            margin-top: 20px;
+          }
+        }
+
+        small {
+          color: lightgray;
+          font-size: 14px;
+          margin-top: 5px;
+        }
+
+        h1 {
+          text-align: center; // center the text
+          padding: none; // remove padding from the top and bottom
+        }
+      }
+    }
+  }
