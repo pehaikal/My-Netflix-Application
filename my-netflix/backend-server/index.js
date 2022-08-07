@@ -7,6 +7,10 @@ const userRoute = require('./routes/userRoute')
 const movieRoute = require('./routes/movieRoute')
 const listRoute = require('./routes/listRoute')
 
+const cors = require('cors')
+
+app.use(cors())
+
 dotenv.config()
 
 mongoose.connect(process.env.MONGO_URL, { 
@@ -26,6 +30,6 @@ app.use("/backend-server/movies", movieRoute)
 app.use("/backend-server/lists", listRoute)
 
 const PORT = 4500
-app.listen(4500, function() {
+app.listen(PORT, function() {
   console.log(`Backend server is running on http://localhost:${PORT}`)
 })

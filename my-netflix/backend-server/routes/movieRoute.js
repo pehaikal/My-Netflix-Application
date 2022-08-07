@@ -115,6 +115,7 @@ Router.get("/", verifyJWToken, async (request, response) => {
       try {
         const getAllMovies = await movieModel.find().sort({ createdAt: -1 }) 
         return response.status(200).json(getAllMovies)
+        // return response.status(200).json([])
 
       } catch (error) {
         return response.status(500).json({ "msg": error.message });

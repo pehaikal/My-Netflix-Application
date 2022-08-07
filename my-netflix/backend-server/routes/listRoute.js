@@ -1,7 +1,6 @@
 const express = require('express')
 const listModel = require('../models/listModel')
 const Router = express.Router()
-const ListModel = require('../models/listModel')
 const verifyJWToken = require('../verifyJWToken')
 
 // Create a new list
