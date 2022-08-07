@@ -40,7 +40,7 @@ export default function List({ list }) {
 
         <div className = "container" ref = {listRef}>
           { list.content.map((item, index) => (
-            <ItemList index={ index } item={ item }/>
+            <ItemList index={ index } item={ item } key={index}/>
           ))}
         </div>
 

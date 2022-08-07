@@ -35,8 +35,8 @@ const Welcome = ({ type }) => {
     <div className = "welcome">
       <NavigationBar />
       <Featured type = { type }/>
-      {lists.map((list) =>(
-        <List list={ list }/>
+      {lists.map((list, index) =>(
+        <List list={ list } key={index}/>
       ))}
     </div>
   </>)
