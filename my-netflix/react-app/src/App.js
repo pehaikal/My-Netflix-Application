@@ -2,15 +2,14 @@ import '../src/styles/app.scss'
 import Register from "./pages/RegisterPage"
 import Login from "./pages/LoginPage"
 import Welcome from "./pages/WelcomePage"
-// import Watch from "./pages/WatchPage"
 import { useContext } from "react"
 import { AuthContext } from "./authContext/AuthContext"
 import { Navigate, Route, Routes } from "react-router-dom"
 
 function App() {
-  // const user = useContext(AuthContext)
+  const { user } = useContext(AuthContext)
   // const user = false
-  const user = true
+  // const user = true
 
   return (<>
   <Routes>

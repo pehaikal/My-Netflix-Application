@@ -1,105 +1,117 @@
 // register.scss
 .register {
-    width: 100vw;
-    height: 100vh;
-    background: linear-gradient(
-        to bottom,
-        rgba(0, 0, 0, 0) 20%,
-        rgba(0, 0, 0, 1) 100%
-        ),
-        url("https://netflixjunkie.com/wp-content/uploads/2021/11/Netflix-Background-1-1140x600.jpg");
-    background-size: cover;
-    position: relative;
-  
-    .header {
-      .wrapper {
-        padding: 20px 50px;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-  
-        .netflix-logo {
-          height: 60px;
-        }
-  
-        .signIn-btn {
-          height: 40px;
-          width: 100px;
-          background-color: red;
-          border: none;
-          color: white;
-          border-radius: 10px;
-          padding: 5px 15px;
-          font-size: 18px;
-          font-weight: bold;
-          cursor: pointer;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom,
+      rgba(0, 0, 0, 0) 20%,
+      rgba(0, 0, 0, 1) 100%),
+    url("https://netflixjunkie.com/wp-content/uploads/2021/11/Netflix-Background-1-1140x600.jpg");
+  background-size: cover;
+  position: relative;
 
-            &:hover {
-                background-color: green;
-                color: white;
-            }
-        }
-      }
-    }
-  
-    .container {
-      width: 100%;
-      height: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
+  .header {
+    .wrapper {
+      padding: 20px 50px;
       display: flex;
-      flex-direction: column;
       align-items: center;
-      justify-content: center;
-      color: white;
-  
-      h1 {
-        font-size: 50px;
+      justify-content: space-between;
+      position: relative;
+      z-index: 9999;
+      .netflix-logo {
+        height: 60px;
       }
-  
-      h2 {
-        margin: 30px;
-        font-size: 30px;
-      }
-  
-      p {
-        margin-top: 40px;
-        font-size: 22px;
-      }
-  
-      .user-input {
-        width: 60%;
-        background-color: white;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        margin-top: 20px;
-        height: 70px;
 
-        input {
-          height: 100%;
-          border: none;
-          flex: 8;
-          padding: 0 10px;
-          font-size: 24px;
-        }
+      .signIn-btn {
+        height: 40px;
+        width: 100px;
+        background-color: red;
+        border: none;
+        color: white;
+        border-radius: 10px;
+        padding: 5px 15px;
+        font-size: 18px;
+        font-weight: bold;
+        cursor: pointer;
 
-        .signUp-btn {
-            flex: 3;
-            height: 100%;
-            background-color: red;
-            border: none;
-            color: black;
-            font-size: 28px;
-            font-weight: bold;
-            cursor: pointer;
-
-            &:hover {
-                background-color: blue;
-                color: white;
-            }
+        &:hover {
+          background-color: green;
+          color: white;
         }
       }
     }
   }
+
+  .container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+    h1 {
+      font-size: 50px;
+    }
+
+    h2 {
+      margin: 30px;
+      font-size: 30px;
+    }
+
+    p {
+      margin-top: 40px;
+      font-size: 22px;
+    }
+
+    .user-input {
+      width: 90%;
+      background-color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      margin: 20px 2em 2em 2em;
+      //height: 70px;
+
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      &.no-margin{
+        margin-top: 0;
+      }
+
+      input {
+        
+        min-height: 70px;
+        border: none;
+        padding: 0 10px;
+        font-size: 24px;
+        flex:1;
+
+        &::placeholder{
+          text-align: center;
+        }
+      }
+
+      .signUp-btn {
+        flex: 3;
+        height: 100%;
+        background-color: red;
+        border: none;
+        color: black;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+
+        &:hover {
+          background-color: blue;
+          color: white;
+        }
+      }
+    }
+  }
+}

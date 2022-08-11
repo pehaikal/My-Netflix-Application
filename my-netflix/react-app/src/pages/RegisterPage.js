@@ -1,22 +1,50 @@
-import { useState, useRef } from "react";
-import "../styles/_registerPage.scss";
-import { sha256 } from "js-sha256";
+import { useRef } from "react"
+import "../styles/_registerPage.scss"
+import { sha256 } from "js-sha256"
+import { useNavigate } from 'react-router-dom'
+import axios from "axios"
+
 
 export default function Register() { 
+  const navigate = useNavigate();
+  const emailReference = useRef()
+  const passwordReference = useRef()
+  const firstNameRef = useRef()
+  const lastNameRef = useRef()
+  const phoneNumbRef = useRef()
 
-  const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
+  const handleStart = async (e) => {
+    e.preventDefault()
 
-  const emailReference = useRef();
-  const handleStart = () => {
-    setEmail(emailReference.current.value);
-  };
+    try{
+      const userName = emailReference.current.value;
+      const userPassword = sha256.update(passwordReference.current.value).hex();
+      const firstName = firstNameRef.current.value;
+      const lastName = lastNameRef.current.value;
+      const phoneNumber = phoneNumbRef.current.value;
 
-  const passwordReference = useRef();
-  const handleFinish = () => {
-    setPassword(sha256.update(passwordReference.current.value).hex());
-  };
+      console.log('url is' + process.env.REACT_APP_JAVA_API_BASE_URL)
+      const response = await axios.post(process.env.REACT_APP_JAVA_API_BASE_URL + '/register', {
+        userName,
+        userPassword,
+        firstName,
+        lastName,
+        phoneNumber
+      })
+      console.log(response)
 
+      navigateToLogin();
+      
+
+    }catch(error) {
+      console.log(error)
+    }
+  }
+
+  function navigateToLogin(){
+    navigate("/login", { replace: true });
+  }
+  
   return (
     <div className="register">
       <div className="header">
@@ -28,7 +56,7 @@ export default function Register() {
             alt=""
           />
 
-          <button className="signIn-btn">Sign In</button>
+          <button className="signIn-btn" onClick={navigateToLogin} >Sign In</button>
 
         </div>
       </div>
@@ -42,29 +70,21 @@ export default function Register() {
           Ready to watch? Enter your email address and password to create your account.
         </p>
 
-        {!email ? (
-          <div className="user-input">
-            <input type="email" placeholder="Email address" ref={emailReference} />
+        <div className="user-input">
+          <input type="email" placeholder="Email Address" ref={ emailReference } />
+          <input type="password" placeholder="Password" ref={ passwordReference } />
+          <input type="firstName" placeholder="First Name" ref={firstNameRef} />
+          <input type="lastName" placeholder="Last Name" ref={ lastNameRef } />
+          <input type="phoneNumber" placeholder="Phone Number" ref={ phoneNumbRef } />
 
-            <button className="signUp-btn" onClick={handleStart}>
-              Get Started
-            </button>
-
-          </div>
-
-        ) : (
-
-          <form className="user-input">
-            <input type="password" placeholder="Password" ref={passwordReference} />
-            
-            <button className="signUp-btn" onClick={handleFinish}>
-              Start
-            </button>
-
-          </form>
-        )}
-
+          
+        </div>
+        <div className="user-input no-margin">
+        <button className="signUp-btn" onClick={ handleStart }>
+            Get Started
+          </button>
+        </div>
       </div>
     </div>
-  );
+  )
 }

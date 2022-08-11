@@ -8,9 +8,7 @@ export default function ItemList({ index, item }) {
 
   const [isHovered, setIsHovered] = useState(false);
   const [movieDetail, setMovie] = useState(null)
-
-  const instance = axios.create({ baseURL: 'http://localhost:4500/backend-server/' })
-
+  const instance = axios.create({ baseURL: process.env.REACT_APP_NODE_API_BASE_URL })
 
   useEffect(() => {
     const getMovie = async () => {

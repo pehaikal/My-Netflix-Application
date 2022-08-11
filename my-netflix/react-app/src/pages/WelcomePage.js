@@ -4,9 +4,9 @@ import "../styles/_welcomePage.scss"
 import List from "../components/CategoryList"
 import {  useState, useEffect } from "react"
 import axios from "axios"
-
+  
 const Welcome = ({ type }) => {
-  const instance = axios.create({ baseURL: 'http://localhost:4500/backend-server/' })
+  const instance = axios.create({ baseURL: process.env.REACT_APP_NODE_API_BASE_URL })
   
   const [lists, setLists] = useState([])
   const [genre, setGenre] = useState(null)

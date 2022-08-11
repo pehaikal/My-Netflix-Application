@@ -1,7 +1,30 @@
 import '../styles/_features.scss'
 import { InfoOutlined, PlayArrow } from "@material-ui/icons"
+import { useEffect, useState } from "react"
+import axios from 'axios'
 
 export default function Featured({ type }) {
+  const [content, setContent] = useState({})
+  const instance = axios.create({ baseURL: process.env.REACT_APP_NODE_API_BASE_URL })
+  
+  useEffect(() => {
+    const getRandomContent = async () => {
+      try{
+        const response = await instance.get(`/movies/random?type=${type}`, 
+        {
+          headers: {
+            token: 
+            "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyZGRkNzlhMTE5NjEzODBiNjQyOTI3NyIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY1OTc2ODkyNCwiZXhwIjoxNjYwMzczNzI0fQ.huduS0kelVha2Z7f8Aw8Yf5ho4ySyy_ycMaV6iXZv1I",
+          },
+        })
+        setContent(response.data[0])
+
+      }catch(error){
+        console.log(error)
+      }
+    }
+    getRandomContent()
+  }, [type])
 
   return (
     <div className = "movie-features">
@@ -32,13 +55,15 @@ export default function Featured({ type }) {
       )}
 
       <img
-        src = "https://www.biloxifumc.com/wp-content/uploads/2017/06/Movie.jpg" alt = "" />
+        src = { content.img }
+        alt = "" />
 
       <div className = "movie-title">
-        <img src = "https://occ-0-1432-1433.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUZdeG1DrMstq-YKHZ-dA-cx2uQN_YbCYx7RABDk0y7F8ZK6nzgCz4bp5qJVgMizPbVpIvXrd4xMBQAuNe0xmuW2WjoeGMDn1cFO.webp?r=df1" alt = "" />
+        <img src = { content.imgTitle }
+        alt = "" />
 
         <span className = "movie-description">
-        A descendent of explorer Sir Francis Drake uncovers the location of the legendary El Dorado. With the help of his mentor and an ambitious journalist he works to uncover its secrets while surviving on an island filled with pirates, mercenaries, and a mysterious enemy.
+          {content.description}
         </span>
 
         <div className = "btns">
@@ -52,7 +77,6 @@ export default function Featured({ type }) {
             <InfoOutlined />
             <span>Info</span>
           </button>
-
         </div>
       </div>
     </div>
