@@ -11,7 +11,7 @@ import com.sun.net.httpserver.HttpServer;
 
 import fr.epita.config.Configuration;
 import fr.epita.services.UserLoginServices;
-import fr.epita.services.RegisterUserServices;
+import fr.epita.services.UserResgisterServices;
 
 public class NetflixServer {
 
@@ -29,13 +29,17 @@ public class NetflixServer {
 				conf.getDBPassword());
 
 		// login service
-		server.createContext("/login", new HttpHandler() {
+		server.createContext("/java-api/login", new HttpHandler() {
 			@Override
 			public void handle(HttpExchange exchange) throws IOException {
 				try {
 					byte[] bytes = UserLoginServices.validateUserLogin(exchange, ds);
 
 					exchange.getResponseHeaders().set("Content-type", "application/json");
+					exchange.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
+					exchange.getResponseHeaders().set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
+					exchange.getResponseHeaders().set("Access-Control-Allow-Headers", "Content-Type");
+					exchange.getResponseHeaders().set("Access-Control-Allow-Credentials", "true");
 					exchange.sendResponseHeaders(200, bytes.length);
 					exchange.getResponseBody().write(bytes);
 					exchange.close();
@@ -48,13 +52,17 @@ public class NetflixServer {
 		});
 
 		// register service
-		server.createContext("/register", new HttpHandler() {
+		server.createContext("/java-api/register", new HttpHandler() {
 			@Override
 			public void handle(HttpExchange exchange) throws IOException {
 				try {
-					byte[] bytes = RegisterUserServices.registerUser(exchange, ds);
+					byte[] bytes = UserResgisterServices.registerUser(exchange, ds);
 
 					exchange.getResponseHeaders().set("Content-type", "application/json");
+					exchange.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
+					exchange.getResponseHeaders().set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
+					exchange.getResponseHeaders().set("Access-Control-Allow-Headers", "Content-Type");
+					exchange.getResponseHeaders().set("Access-Control-Allow-Credentials", "true");
 					exchange.sendResponseHeaders(200, bytes.length);
 					exchange.getResponseBody().write(bytes);
 					exchange.close();

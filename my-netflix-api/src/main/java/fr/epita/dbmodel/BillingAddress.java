@@ -39,6 +39,9 @@ public class BillingAddress {
         this.streetNumber = streetNumber;
     }
 
+    public BillingAddress() {
+    }
+
     public Integer getBillingAddressId() {
         return billingAddressId;
     }

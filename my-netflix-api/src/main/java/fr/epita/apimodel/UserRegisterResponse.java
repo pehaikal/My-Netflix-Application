@@ -5,17 +5,17 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
 
-public class UserLoginResponse {
+public class UserRegisterResponse {
     @JsonProperty("errorCode")
     String errorCode;
 
     @JsonProperty("errorDescription")
     String errorDescription;
 
-    public UserLoginResponse() {
+    public UserRegisterResponse() {
     }
 
-    public UserLoginResponse(String errorCode, String errorDescription) {
+    public UserRegisterResponse(String errorCode, String errorDescription) {
         this.errorCode = errorCode;
         this.errorDescription = errorDescription;
     }

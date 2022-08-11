@@ -9,5 +9,8 @@
         <module name="my-netflix-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="my-netflix-api" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
