@@ -1,0 +1,964 @@
+/*Top 10 Popular Movies*/
+{
+	"movies": [
+		{
+			"title": "Thor: Love and Thunder",
+			"description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+			"img": "https://primemovies.tv/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+			"imgTitle": "https://mb.com.ph/wp-content/uploads/2022/07/thor1-1024x1024.jpeg",
+			"imgSmall": "https://primemovies.tv/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 14,
+			"genre": "Action/Aventure",
+			"isSeries": false
+		},
+		{
+			"title": "Jurassic World Dominion",
+			"description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.",
+			"img": "https://images6.alphacoders.com/123/1239922.jpg",
+			"imgTitle": "https://images.fanart.tv/fanart/jurassic-world-dominion-620fe4a25bdea.png",
+			"imgSmall": "https://images6.alphacoders.com/123/1239922.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 16,
+			"genre": "Science-Fiction/Fantasy",
+			"isSeries": false
+		},
+		{
+			"title": "Minions: The Rise of Gru",
+			"description": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+			"img": "https://images-na.ssl-images-amazon.com/images/I/918jJBd4hOL.jpg",
+			"imgTitle": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/01/minions-rise-of-gru.jpg",
+			"imgSmall": "https://images-na.ssl-images-amazon.com/images/I/918jJBd4hOL.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 12,
+			"genre": "Comedy",
+			"isSeries": false
+		},
+		{
+			"title": "Top Gun: Maverick",
+			"description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+			"imgTitle": "https://www.kindpng.com/picc/m/769-7690982_logo-top-gun-maverick-hd-png-download.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 18,
+			"genre": "Action/Drama",
+			"isSeries": false
+		},
+		{
+			"title": "Lightyear",
+			"description": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+			"imgTitle": "https://discourse.disneyheroesgame.com/uploads/default/original/3X/9/9/99cb2d59379799987592e5b08485e774bf49bbc7.jpeg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 18,
+			"genre": "Action/Science-Fiction/Animation",
+			"isSeries": false
+		},
+		{
+			"title": "The Black Phone",
+			"description": "Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+			"imgTitle": "https://media0.giphy.com/avatars/theblackphone/TFrSWLZBuytS.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 18,
+			"genre": "Horror/Thriller",
+			"isSeries": false
+		},
+		{
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"imgTitle": "https://geekanything.com/wp-content/uploads/2021/01/83-830686_logopedia10-doctor-strange-in-the-multiverse-of-madness.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 16,
+			"genre": "Fantasy/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "Dragon Knight",
+			"description": "Many years after the war has been lost, and all the dragons slain, a lone knight travels the lands of Agonos seeking to raise an army against the demon lord Abaddon. When a healer's vision reveals that one dragon still lives, and together with an eager young squire, the knight sets off in search of the fabled creature. As the armies of Abaddon descend on the human kingdoms, the dragon is their last hope of fending off the horde, before it lays waste to the lands of men. But does the creature even exist? And if it does, will it fight for them once more?",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/uSMJbYhaEpQtF9vkMhpgljc0CA4.jpg",
+			"imgTitle": "https://lh3.googleusercontent.com/CLBelzS01K7kKVWtY9a1tNo9z0PX9G1zjgGfz0FuLLNlTqs14HL2UqTbFB0bjk9OTRp1Gqb_R88",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/uSMJbYhaEpQtF9vkMhpgljc0CA4.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 12,
+			"genre": "Fantasy/Action",
+			"isSeries": false
+			
+		},
+		{
+			"title": "The Princess",
+			"description": "A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+			"imgTitle": "https://m.media-amazon.com/images/M/MV5BMWYzYTY5ODQtMmY4YS00YWMxLTkyNDEtNmNjY2QxYzZlNTczXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 14,
+			"genre": "Fantasy/Action",
+			"isSeries": false
+		},
+		{
+			
+			"title": "The Ledge",
+			"description": "A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight-knit group of friends who will stop at nothing to destroy the evidence and anyone in their way. Desperate for her safety, she begins a treacherous climb up a mountain cliff and her survival instincts are put to the test when she becomes trapped with the killers just 20 feet away.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/mKFT6Q7PjrRLYuPLfmH4WLCXOiD.jpg",
+			"imgTitle": "https://www.avforums.com/styles/avf/editorial/block//2c09097e5c44d6f993cdaf1e9c2ae594_3x3.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/mKFT6Q7PjrRLYuPLfmH4WLCXOiD.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 14,
+			"genre": "Thriller",
+			"isSeries": false
+		}
+	]
+}
+
+
+/*Top 10 Rated Movies*/
+{
+    "movies": [
+        {
+            "title": "Dilwale Dulhania Le Jayenge",
+            "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+			"imgTitle": "https://stat1.bollywoodhungama.in/wp-content/uploads/2018/01/How-Dilwale-Dulhania-Le-Jayenge-was-a-game-changer-in-terms-of-marketing-2.jpeg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "1995",
+            "limit": 16,
+			"genre": "Comedy/Drama",
+			"isSeries": false
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "description": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+			"imgTitle": "https://cdn.quotesgram.com/img/22/34/560495870-shawshank_20title.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+			"year": "1994",
+			"limit": 16,
+			"genre": "Drama/Crime",
+			"isSeries": false
+        },
+        {
+            "title": "The Godfather",
+            "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+			"imgTitle": "https://p.kindpng.com/picc/s/223-2238340_godfather-font-hd-png-download.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "",
+			"year": "1972",
+            "limit": 16,
+			"genre": "Drama/Crime",
+			"isSeries": false
+        },
+        {
+            "title": "Schindler's List",
+            "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+			"imgTitle": "https://p.kindpng.com/picc/s/71-714221_schindlers-list-schindlers-list-logo-hd-png-download.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+            "year": "1993",
+			"limit": 12,
+			"genre": "History/Drama",
+			"isSeries": false
+        },
+        {
+            
+            "title": "The Godfather: Part II",
+            "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+			"imgTitle": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNW6_jdNe3IhvK2puW-l1QEKLJfK9WS3N1M92dZssKDXOmH0zbhYZtuurvFcXEUvKMxs&usqp=CAU",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+			"year": "1974",
+            "limit": 18,
+			"genre": "Drama/Crime",
+			"isSeries": false
+        },
+        {
+            "title": "Cosas imposibles",
+            "description": "Matilde is a woman who, after the death of her husband - a man who constantly abused her - finds her new best friend in Miguel, her young, insecure, disoriented and even dealer neighbor",
+            "img": "https://m.media-amazon.com/images/M/MV5BN2IwMDdmODQtYTc2YS00MzM0LTg5Y2ItYTRjMTNhYTBjZGVmXkEyXkFqcGdeQXVyMjYwOTI0NDI@._V1_FMjpg_UX1000_.jpg",
+			"imgTitle": "https://stat1.bollywoodhungama.in/wp-content/uploads/2018/01/How-Dilwale-Dulhania-Le-Jayenge-was-a-game-changer-in-terms-of-marketing-2.jpeg",
+			"imgSmall": "https://m.media-amazon.com/images/M/MV5BN2IwMDdmODQtYTc2YS00MzM0LTg5Y2ItYTRjMTNhYTBjZGVmXkEyXkFqcGdeQXVyMjYwOTI0NDI@._V1_FMjpg_UX1000_.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+            "year": "2021",
+			"limit": 12,
+			"genre": "Comedy/Drama",
+			"isSeries": false
+        },
+        {
+            
+            "title": "Purple Hearts",
+            "description": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+			"imgTitle": "https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "",
+			"year": "2022",
+			"limit": 18,
+			"genre": "Romance",
+			"isSeries": false
+            
+        },
+        {
+            "title": "Spirited Away",
+            "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+			"imgTitle": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-V39peP72UQich04BXjIqDoiM1BVEVGrHPOGRgZD9x9XNDkapHCEG8HMCQmb9K4vlEA&usqp=CAU",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+            "year": "2001",
+			"limit": 10,
+			"genre": "Animation/Fantasy",
+			"isSeries": false
+        },
+        {
+            "title": "Your Eyes Tell",
+            "description": "A tragic accident lead to Kaori's blindness, but she clings to life and the smaller pleasures it can still afford her. She meets Rui and begins to talk to him. Rui was once a promising kickboxer, but something happened in his past. Kaori's smile brings out a change in Rui. However, the two are connected in more than one way. Rui attempts to do what is right.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/cVn8E3Fxbi8HzYYtaSfsblYC4gl.jpg",
+			"imgTitle": "https://images.squarespace-cdn.com/content/v1/5aa2069c25bf02363bf5c7c4/1595211828659-X1EIWPR5OXID4DORB7EB/Screen%2BShot%2B2020-07-08%2Bat%2B6.17.47%2BPM.png?format=1000w",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/cVn8E3Fxbi8HzYYtaSfsblYC4gl.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "",
+            "year": "2020",
+			"limit": 18,
+			"genre": "Romance",
+			"isSeries": false
+        },
+        {
+			"title": "The Dark Night",
+            "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+			"imgTitle": "https://u7.uidownload.com/vector/572/100/vector-the-dark-knight-vector-.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+			"year": "2008",
+			"limit": 12,
+			"genre": "Action/Thriller",
+			"isSeries": false
+        }
+    ]
+}
+
+
+/*Drama Movies List*/
+{
+    "movies": [
+		{
+			"title": "Top Gun: Maverick",
+			"description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+			"imgTitle": "https://www.kindpng.com/picc/m/769-7690982_logo-top-gun-maverick-hd-png-download.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 18,
+			"genre": "Action/Drama",
+			"isSeries": false
+		},
+		{
+            "title": "Dilwale Dulhania Le Jayenge",
+            "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+			"imgTitle": "https://stat1.bollywoodhungama.in/wp-content/uploads/2018/01/How-Dilwale-Dulhania-Le-Jayenge-was-a-game-changer-in-terms-of-marketing-2.jpeg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "1995",
+            "limit": 16,
+			"genre": "Comedy/Drama",
+			"isSeries": false
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "description": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+			"imgTitle": "https://cdn.quotesgram.com/img/22/34/560495870-shawshank_20title.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+			"year": "1994",
+			"limit": 16,
+			"genre": "Drama/Crime",
+			"isSeries": false
+        },
+        {
+            "title": "The Godfather",
+            "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+			"imgTitle": "https://p.kindpng.com/picc/s/223-2238340_godfather-font-hd-png-download.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "",
+			"year": "1972",
+            "limit": 16,
+			"genre": "Drama/Crime",
+			"isSeries": false
+        },
+        {
+            "title": "Schindler's List",
+            "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+			"imgTitle": "https://p.kindpng.com/picc/s/71-714221_schindlers-list-schindlers-list-logo-hd-png-download.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+            "year": "1993",
+			"limit": 12,
+			"genre": "History/Drama",
+			"isSeries": false
+        },
+        {
+            
+            "title": "The Godfather: Part II",
+            "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+			"imgTitle": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNW6_jdNe3IhvK2puW-l1QEKLJfK9WS3N1M92dZssKDXOmH0zbhYZtuurvFcXEUvKMxs&usqp=CAU",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+			"year": "1974",
+            "limit": 18,
+			"genre": "Drama/Crime",
+			"isSeries": false
+        },
+        {
+            
+            "title": "Cosas imposibles",
+            "description": "Matilde is a woman who, after the death of her husband - a man who constantly abused her - finds her new best friend in Miguel, her young, insecure, disoriented and even dealer neighbor",
+            "img": "https://m.media-amazon.com/images/M/MV5BN2IwMDdmODQtYTc2YS00MzM0LTg5Y2ItYTRjMTNhYTBjZGVmXkEyXkFqcGdeQXVyMjYwOTI0NDI@._V1_FMjpg_UX1000_.jpg",
+			"imgTitle": "https://stat1.bollywoodhungama.in/wp-content/uploads/2018/01/How-Dilwale-Dulhania-Le-Jayenge-was-a-game-changer-in-terms-of-marketing-2.jpeg",
+			"imgSmall": "https://m.media-amazon.com/images/M/MV5BN2IwMDdmODQtYTc2YS00MzM0LTg5Y2ItYTRjMTNhYTBjZGVmXkEyXkFqcGdeQXVyMjYwOTI0NDI@._V1_FMjpg_UX1000_.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+            "year": "2021",
+			"limit": 12,
+			"genre": "Comedy/Drama",
+			"isSeries": false
+        },
+        {
+			"title": "A Star Is Born",
+			"description": "It might be the remake of a remake of a remake, but Lady Gaga is flawl...",
+			"img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/a-star-is...",
+			"imgTitle": "https://nestia-food.obs.ap-southeast-3.myhuaweicloud.com/201912/01/e20...",
+			"imgSmall": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/a-star-is...",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2...",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2...",
+			"year": "2018",
+			"limit": 13,
+			"genre": "Drama",
+			"isSeries":false
+		},
+		{
+			"title": "Almost Famous",
+			"description": "There’s probably not a soul alive who didn’t want to become a rock jou...",
+			"img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/almost-fa...",
+			"imgTitle": "https://www.slashfilm.com/wp/wp-content/images/almostfamous-bluray-cov...",
+			"imgSmall": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/almost-fa...",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2...",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2...",
+			"year": "2000",
+			"limit": 14,
+			"genre": "Drama",
+			"isSeries": false
+		},
+		{
+			"title": "Hidden Figures",
+			"description": "Based on the incredible true story, this Best Picture nominee follows three brilliant Black women at NASA who team up to solve an equation that would play a pivotal role in the Space Race.",
+			"img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hidden-figures-everett-1651175091.jpg?crop=1xw:1xh;center,top&resize=768:*",
+			"imgTitle": "https://www.rit.edu/diversity/sites/rit.edu.diversity/files/styles/newsletter_stories_display/public/newsletter-images/HF.banner.png?h=cc0f9ca0&itok=MR2JWlGM",
+			"imgSmall": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hidden-figures-everett-1651175091.jpg?crop=1xw:1xh;center,top&resize=768:*",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2016",
+			"limit": 17,
+			"genre": "Drama",
+			"isSeries":false
+		}
+	]
+}
+
+
+/*Action Movies List*/
+{
+    "movies": [
+		{
+			"title": "Thor: Love and Thunder",
+			"description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+			"img": "https://primemovies.tv/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+			"imgTitle": "https://mb.com.ph/wp-content/uploads/2022/07/thor1-1024x1024.jpeg",
+			"imgSmall": "https://primemovies.tv/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 14,
+			"genre": "Action/Aventure",
+			"isSeries": false
+		},
+		{
+			"title": "Top Gun: Maverick",
+			"description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+			"imgTitle": "https://www.kindpng.com/picc/m/769-7690982_logo-top-gun-maverick-hd-png-download.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 18,
+			"genre": "Action/Drama",
+			"isSeries": false
+		},
+		{
+			"title": "Lightyear",
+			"description": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+			"imgTitle": "https://discourse.disneyheroesgame.com/uploads/default/original/3X/9/9/99cb2d59379799987592e5b08485e774bf49bbc7.jpeg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 18,
+			"genre": "Action/Science-Fiction/Animation",
+			"isSeries": false
+		},
+		{
+			"title": "Dragon Knight",
+			"description": "Many years after the war has been lost, and all the dragons slain, a lone knight travels the lands of Agonos seeking to raise an army against the demon lord Abaddon. When a healer's vision reveals that one dragon still lives, and together with an eager young squire, the knight sets off in search of the fabled creature. As the armies of Abaddon descend on the human kingdoms, the dragon is their last hope of fending off the horde, before it lays waste to the lands of men. But does the creature even exist? And if it does, will it fight for them once more?",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/uSMJbYhaEpQtF9vkMhpgljc0CA4.jpg",
+			"imgTitle": "https://lh3.googleusercontent.com/CLBelzS01K7kKVWtY9a1tNo9z0PX9G1zjgGfz0FuLLNlTqs14HL2UqTbFB0bjk9OTRp1Gqb_R88",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/uSMJbYhaEpQtF9vkMhpgljc0CA4.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 12,
+			"genre": "Fantasy/Action",
+			"isSeries": false
+			
+		},
+		{
+			"title": "The Princess",
+			"description": "A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+			"imgTitle": "https://m.media-amazon.com/images/M/MV5BMWYzYTY5ODQtMmY4YS00YWMxLTkyNDEtNmNjY2QxYzZlNTczXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 14,
+			"genre": "Fantasy/Action",
+			"isSeries": false
+		},
+		{
+			"title": "The Dark Night",
+            "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+			"imgTitle": "https://u7.uidownload.com/vector/572/100/vector-the-dark-knight-vector-.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+			"year": "2008",
+			"limit": 12,
+			"genre": "Action/Thriller",
+			"isSeries": false
+        },
+		{
+			"title": "Lucy",
+			"description": "When a young American in Taiwan becomes an unwilling drug mule, the high-tech narcotics get released into her system and activate superhuman powers.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQawcQpFFlbIoY54j276NqMMoiFdBhFDyMpiICrgh4i5XpreRc_a0Mxx44lsPnf6Za4jntl1Tor5QtLG1pc4kj98XOfkOIQaQSc.jpg?r=44f",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ9OPtad-GSX1fsutWYTLWlsu3qeX_14uScvw5mrZxHzfPyUbQT5Yaxza7daVtNoW4gyYBO5XGgN_HUYq7_Y_kJQhksYv1ZyS8N3OhNnEmCG.png?r=a7a",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQawcQpFFlbIoY54j276NqMMoiFdBhFDyMpiICrgh4i5XpreRc_a0Mxx44lsPnf6Za4jntl1Tor5QtLG1pc4kj98XOfkOIQaQSc.jpg?r=44f",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2014",
+			"limit": 18,
+			"genre": "Action/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "Suicide Squad",
+			"description": "A secret government official releases the world's worst super villains from prison to have them stop an impending apocalypse in exchange for freedom.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUM-n2h5m0BKYwCmfRx3DefwSKc0fsom7lbNoRMz8nu07dHbaPbQApUPqwF-X1PnvBtxk7tg5N_MycWdOXQfbv9hqS8zneGy7NE.jpg?r=03d",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZGiiHYGQyMSAdgXRlC08xRmav7XzSOQTKGGgx-SQWwNODjFUDrxun4NIbeAoWoFZj0zbBHovPFh1WSrMcIBqyjLBT2_q5AokwJ6Xz5YgVTc.png?r=14d",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUM-n2h5m0BKYwCmfRx3DefwSKc0fsom7lbNoRMz8nu07dHbaPbQApUPqwF-X1PnvBtxk7tg5N_MycWdOXQfbv9hqS8zneGy7NE.jpg?r=03d",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2016",
+			"limit": 16,
+			"genre": "Action/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "6 Underground",
+			"description": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS1ha7PIhDsfkMWlEZkkgy5wLKpWm3wI0f9OVrmAlFVlXSI35NUHmzOD5MwNdv8HsYUlPMXuqRtAUe8EdRE7hUYvkptUDIASOrD_kybAt3x5T7vbCYOf0YPTf8tAMr_JvXoX.jpg?r=db7",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQQydHV5CYNLKpRyTsVRLXnKvRDmdNCSCGkLEHbovQetT0S11OW5rolp3nvosxqwgHsfXf_t_CKez40MDQwwteDVwNvlypxv-4qHMUcMSdZrxD_1j0J8ANJjH3LQUE2ZSMXvy3D9n4p42G6kSSB5tgcvc2Z40xuMsvRwQQsXii1z8zvHFGg4RA.png?r=00d",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS1ha7PIhDsfkMWlEZkkgy5wLKpWm3wI0f9OVrmAlFVlXSI35NUHmzOD5MwNdv8HsYUlPMXuqRtAUe8EdRE7hUYvkptUDIASOrD_kybAt3x5T7vbCYOf0YPTf8tAMr_JvXoX.jpg?r=db7",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761","video":"https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2019",
+			"limit": 18,
+			"genre": "Action/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "Baywatch",
+			"description": "To save their beach, elite lifeguard Mitch Buchannon and a former Olympian probe a criminal plot that threatens the future of the bay.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdFmPrGVuZB9hMATaX17D0VvrizHOT5Ma5hKp1znnOsLc9MbzJvLQ8UzX_4LLCd8kaSeYGVSRSHXnA1LMoGRf0jodYh0o90xmXI.jpg?r=e9d",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUUwOL6ZpSdK58E0KmQ_gbpJdBavN9h6k_PxqQWnqj4_apksUlPEUblSXfwERI7b1JUD841S99uSBzwrGxjZd4Xs1rQe7P5JXMmWnDzYGl11.png?r=4f1",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdFmPrGVuZB9hMATaX17D0VvrizHOT5Ma5hKp1znnOsLc9MbzJvLQ8UzX_4LLCd8kaSeYGVSRSHXnA1LMoGRf0jodYh0o90xmXI.jpg?r=e9d",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2017",
+			"limit": 18,
+			"genre": "Action/Adventure",
+			"isSeries": false
+		}
+	]
+}
+
+
+/*Adventure Movies List*/
+{
+	"movies":[
+	{
+			"title": "Thor: Love and Thunder",
+			"description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+			"img": "https://primemovies.tv/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+			"imgTitle": "https://mb.com.ph/wp-content/uploads/2022/07/thor1-1024x1024.jpeg",
+			"imgSmall": "https://primemovies.tv/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 14,
+			"genre": "Action/Aventure",
+			"isSeries": false
+		},
+		{
+			"title": "Lucy",
+			"description": "When a young American in Taiwan becomes an unwilling drug mule, the high-tech narcotics get released into her system and activate superhuman powers.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQawcQpFFlbIoY54j276NqMMoiFdBhFDyMpiICrgh4i5XpreRc_a0Mxx44lsPnf6Za4jntl1Tor5QtLG1pc4kj98XOfkOIQaQSc.jpg?r=44f",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ9OPtad-GSX1fsutWYTLWlsu3qeX_14uScvw5mrZxHzfPyUbQT5Yaxza7daVtNoW4gyYBO5XGgN_HUYq7_Y_kJQhksYv1ZyS8N3OhNnEmCG.png?r=a7a",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQawcQpFFlbIoY54j276NqMMoiFdBhFDyMpiICrgh4i5XpreRc_a0Mxx44lsPnf6Za4jntl1Tor5QtLG1pc4kj98XOfkOIQaQSc.jpg?r=44f",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2014",
+			"limit": 18,
+			"genre": "Action/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "Suicide Squad",
+			"description": "A secret government official releases the world's worst super villains from prison to have them stop an impending apocalypse in exchange for freedom.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUM-n2h5m0BKYwCmfRx3DefwSKc0fsom7lbNoRMz8nu07dHbaPbQApUPqwF-X1PnvBtxk7tg5N_MycWdOXQfbv9hqS8zneGy7NE.jpg?r=03d",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZGiiHYGQyMSAdgXRlC08xRmav7XzSOQTKGGgx-SQWwNODjFUDrxun4NIbeAoWoFZj0zbBHovPFh1WSrMcIBqyjLBT2_q5AokwJ6Xz5YgVTc.png?r=14d",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUM-n2h5m0BKYwCmfRx3DefwSKc0fsom7lbNoRMz8nu07dHbaPbQApUPqwF-X1PnvBtxk7tg5N_MycWdOXQfbv9hqS8zneGy7NE.jpg?r=03d",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2016",
+			"limit": 16,
+			"genre": "Action/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "6 Underground",
+			"description": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS1ha7PIhDsfkMWlEZkkgy5wLKpWm3wI0f9OVrmAlFVlXSI35NUHmzOD5MwNdv8HsYUlPMXuqRtAUe8EdRE7hUYvkptUDIASOrD_kybAt3x5T7vbCYOf0YPTf8tAMr_JvXoX.jpg?r=db7",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQQydHV5CYNLKpRyTsVRLXnKvRDmdNCSCGkLEHbovQetT0S11OW5rolp3nvosxqwgHsfXf_t_CKez40MDQwwteDVwNvlypxv-4qHMUcMSdZrxD_1j0J8ANJjH3LQUE2ZSMXvy3D9n4p42G6kSSB5tgcvc2Z40xuMsvRwQQsXii1z8zvHFGg4RA.png?r=00d",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS1ha7PIhDsfkMWlEZkkgy5wLKpWm3wI0f9OVrmAlFVlXSI35NUHmzOD5MwNdv8HsYUlPMXuqRtAUe8EdRE7hUYvkptUDIASOrD_kybAt3x5T7vbCYOf0YPTf8tAMr_JvXoX.jpg?r=db7",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761","video":"https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2019",
+			"limit": 18,
+			"genre": "Action/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "Baywatch",
+			"description": "To save their beach, elite lifeguard Mitch Buchannon and a former Olympian probe a criminal plot that threatens the future of the bay.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdFmPrGVuZB9hMATaX17D0VvrizHOT5Ma5hKp1znnOsLc9MbzJvLQ8UzX_4LLCd8kaSeYGVSRSHXnA1LMoGRf0jodYh0o90xmXI.jpg?r=e9d",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUUwOL6ZpSdK58E0KmQ_gbpJdBavN9h6k_PxqQWnqj4_apksUlPEUblSXfwERI7b1JUD841S99uSBzwrGxjZd4Xs1rQe7P5JXMmWnDzYGl11.png?r=4f1",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdFmPrGVuZB9hMATaX17D0VvrizHOT5Ma5hKp1znnOsLc9MbzJvLQ8UzX_4LLCd8kaSeYGVSRSHXnA1LMoGRf0jodYh0o90xmXI.jpg?r=e9d",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2017",
+			"limit": 18,
+			"genre": "Action/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"imgTitle": "https://geekanything.com/wp-content/uploads/2021/01/83-830686_logopedia10-doctor-strange-in-the-multiverse-of-madness.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 16,
+			"genre": "Fantasy/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "Knight and Day",
+			"description": "Unlucky in love, June becomes intrigued by a mysterious man who unexpectedly drags her into a whirlwind adventure involving devious enemies.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUHTrNvX1zKBoo-3xljqWyVl361_L4z8B9xhd9NQkfWV8dZK_E7lYiQo2OhflNHYVftNlAFiFD-0H26T5T2m8woKqGRGJ899Myw.jpg?r=134",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYyfZyoicAirZEtGBy0_U10pfWBsh57MQKEYi_seFltfpFWA7ff4VuZLN9z8LYVmjwd0-GO21kWpRIockgbgYEj2st7pfutYCUVDNisN7hzA.png?r=f3f",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUHTrNvX1zKBoo-3xljqWyVl361_L4z8B9xhd9NQkfWV8dZK_E7lYiQo2OhflNHYVftNlAFiFD-0H26T5T2m8woKqGRGJ899Myw.jpg?r=134",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2010",
+			"limit": 16,
+			"genre": "Romantic/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "King Kong",
+			"description": "Peter Jackson's remake of the classic follows a group of adventurous explorers and filmmakers to Skull Island, where they search for a giant gorilla.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQILKZIpxUuNUFh79qCECvP4G4vbqzLudGTUvQzvE3sfUU4OdCWmsgChFhLaXMDK-UipvJGFe7IE5uOFAh9-GhmrM6-jkTv5nrA.jpg?r=ed2",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABexUvhycH_7aecCXtMEI9DIN8uTkb9e1Hkp_jFfr3KEE9NPZtWr5EzPVPEXMFBOQJ8sqN0j4na9tBgzr9sXJD3suq6YFjCFFdEzFBxxVIjsf.png?r=f0d",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQILKZIpxUuNUFh79qCECvP4G4vbqzLudGTUvQzvE3sfUU4OdCWmsgChFhLaXMDK-UipvJGFe7IE5uOFAh9-GhmrM6-jkTv5nrA.jpg?r=ed2",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2005",
+			"limit": 16,
+			"genre": "Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "The Last Airbender",
+			"description": "In a world ravaged by the Fire nation's aggression toward the peaceful Air, Water and Earth nations, a young boy holds the key to restoring peace.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS_I4VeGJEeEste_0VoI-5K5IDzmLf_cg9fcyWLkq7bFwp_l2WMSC9IB4HRaK-Kyw3fZtH4UzSEqJXyPb0b2F4-mtRvJD4oZztc.jpg?r=aac",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYb5LBDrErWV_lyK4lX3ffFKAtCTTc9SSLTX1TKESTFm4bqhmVscu9AjwSIjOe8Mdhmlkm5r-arTjVVJiOScG9SIVJADJcyNMO5U047Hcg1v.png?r=229",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS_I4VeGJEeEste_0VoI-5K5IDzmLf_cg9fcyWLkq7bFwp_l2WMSC9IB4HRaK-Kyw3fZtH4UzSEqJXyPb0b2F4-mtRvJD4oZztc.jpg?r=aac",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2010",
+			"limit": 13,
+			"genre": "Adventure/Fantasy",
+			"isSeries": false
+		},
+		{
+			"title": "Transformers",
+			"description": "As the Autobots and the Decepticons struggle for control of Earth's resources, young Sam Witwicky is unaware he is mankind's only hope for survival.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZP7HWx4vmpX7KNtDxst9a3J1tSmS4EvmhkJM94c7vDeQSrWx0dyFEV4ozMb_sjgOEVA_pX38K_NlhN5nQkQn0xiQ9Mypdqr-2g.jpg?r=81b",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABWUH6lrvRFiZVhgTV8Bg_39ZbpTNO1_hXdE1cWpc6VMjJL4WSqOUjqhTGh3Z5R_uh8YwHoiGWb2YEaFQDdRpjlrxtxHiAVrHPygE1c6yHIdt.png?r=464",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZP7HWx4vmpX7KNtDxst9a3J1tSmS4EvmhkJM94c7vDeQSrWx0dyFEV4ozMb_sjgOEVA_pX38K_NlhN5nQkQn0xiQ9Mypdqr-2g.jpg?r=81b",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2007",
+			"limit": 13,
+			"genre": "Adventure",
+			"isSeries": false
+		}
+	]
+}
+
+
+/*Comedy Movies List*/
+{
+	"movies":[
+		{
+			"title": "Minions: The Rise of Gru",
+			"description": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+			"img": "https://images-na.ssl-images-amazon.com/images/I/918jJBd4hOL.jpg",
+			"imgTitle": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/01/minions-rise-of-gru.jpg",
+			"imgSmall": "https://images-na.ssl-images-amazon.com/images/I/918jJBd4hOL.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 12,
+			"genre": "Comedy",
+			"isSeries": false
+		},
+		{
+            "title": "Dilwale Dulhania Le Jayenge",
+            "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+            "img": "https://www.themoviedb.org/t/p/w440_and_h660_face/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+			"imgTitle": "https://stat1.bollywoodhungama.in/wp-content/uploads/2018/01/How-Dilwale-Dulhania-Le-Jayenge-was-a-game-changer-in-terms-of-marketing-2.jpeg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "1995",
+            "limit": 16,
+			"genre": "Comedy/Drama",
+			"isSeries": false
+        },
+		{
+            "title": "Cosas imposibles",
+            "description": "Matilde is a woman who, after the death of her husband - a man who constantly abused her - finds her new best friend in Miguel, her young, insecure, disoriented and even dealer neighbor",
+            "img": "https://m.media-amazon.com/images/M/MV5BN2IwMDdmODQtYTc2YS00MzM0LTg5Y2ItYTRjMTNhYTBjZGVmXkEyXkFqcGdeQXVyMjYwOTI0NDI@._V1_FMjpg_UX1000_.jpg",
+			"imgTitle": "https://stat1.bollywoodhungama.in/wp-content/uploads/2018/01/How-Dilwale-Dulhania-Le-Jayenge-was-a-game-changer-in-terms-of-marketing-2.jpeg",
+			"imgSmall": "https://m.media-amazon.com/images/M/MV5BN2IwMDdmODQtYTc2YS00MzM0LTg5Y2ItYTRjMTNhYTBjZGVmXkEyXkFqcGdeQXVyMjYwOTI0NDI@._V1_FMjpg_UX1000_.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "2021",
+			"limit": 12,
+			"genre": "Comedy/Drama",
+			"isSeries": false
+        },
+		{
+            "title": "The Adam Project",
+            "description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+            "img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUKzEpABq6v35A11XMr_9fRr3ZzbiQJGS_RAX-tOauxVX5-Bf1dQIaCRPH8T3mxBSXaWU2rBgqwn9b7Nj6129_aeRQUh-Zw5Z_S15YTM3irCmg8_J4y-UTP2x3gCdWmlmc7K.jpg?r=3db",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWpaerIrmxpFCy6GIdzaXEIPuOY1wvfes7uiFkQ3xasytLlxAY_dnl7qud7Jc43GmbhZEK2UVbl8eVp26p0ZoeXg4CrCnsJfECF5LgQ9fVMSNd0Yl9_2yusI37J88qa6nr2U-JBxNyODMywS7i7rKIjojzG3PGpsbz8dzA4OMNcu0MbkrwIv6Q.png?r=fb2",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUKzEpABq6v35A11XMr_9fRr3ZzbiQJGS_RAX-tOauxVX5-Bf1dQIaCRPH8T3mxBSXaWU2rBgqwn9b7Nj6129_aeRQUh-Zw5Z_S15YTM3irCmg8_J4y-UTP2x3gCdWmlmc7K.jpg?r=3db",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "2022",
+			"limit": 13,
+			"genre": "Comedy",
+			"isSeries": false
+        },
+		{
+            "title": "Central Intelligence",
+            "description": "A CIA operative contacts a former high school buddy with accounting chops to help dissolve a lethal plot against U.S. undercover agents.",
+            "img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS48NaqGOHLCAU4z34JyrFC_-ZpOo0CE1sC07jPorqPJNZQWH6vqo3VTRfY0rl7s5vobY_mh5kBaZoWlQeyDugkdqwqpqTaFsbw.jpg?r=301",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVD1hLJxkqtUUn9Ktwqvjp4q8r_gjd0i2ySj1zeBu6Zf9cgBxA4ohthfsU-ChjrZYJm3Z1dog_Zx9rt8NLr-_pnyKVPX-kGaQI2lf74a8EzH.png?r=73c",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS48NaqGOHLCAU4z34JyrFC_-ZpOo0CE1sC07jPorqPJNZQWH6vqo3VTRfY0rl7s5vobY_mh5kBaZoWlQeyDugkdqwqpqTaFsbw.jpg?r=301",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "2016",
+			"limit": 16,
+			"genre": "Comedy",
+			"isSeries": false
+        },
+		{
+            "title": "Rush Hour",
+            "description": "When a Hong Kong inspector is summoned to Los Angeles to investigate a kidnapping, the FBI assigns a cocky LAPD cop to distract him from the case.",
+            "img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTVDwE9Eg9hxySZrPOEo9jPTNGS2ZIU_716yFEoBMx_P5YmCJ5vOaroY10u9QaXQ8nFa9XmuOsQYLoJXwExVwxkRakFKPolMccY.jpg?r=0ff",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSM5nWJMwgOCOcssML0_63FmXdw96V0Lw5agYWZpz5tsYYMNuyHIkbA-5CDds0LDp_nNtGdupmTQfIJ0MBcnSKINNWXr-a8KXYnnuEN5hC-E.png?r=772",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTVDwE9Eg9hxySZrPOEo9jPTNGS2ZIU_716yFEoBMx_P5YmCJ5vOaroY10u9QaXQ8nFa9XmuOsQYLoJXwExVwxkRakFKPolMccY.jpg?r=0ff",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "1998",
+			"limit": 16,
+			"genre": "Comedy",
+			"isSeries": false
+        },
+		{
+            "title": "Mr. & Mrs. Smith",
+            "description": "John and Jane are an average-on-the-surface couple who don't yet know that they share the same undercover line of work: They're both guns for hire.",
+            "img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXcJFcrlVGYDJ0MphxgGQrNfPFB-DVH_MuA-nzTLF2k2PHJKiWydx6zOJmDPZCm7mqldChxVzQPKOaqjPpQXbnzRlULK77YBHJQ.jpg?r=06e",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcjhhBc81ogQWTK7aUBHBRlve0iezezwqxAW9u4SuqqypR4NuypEyemz1msoxhOo8tMi9WRVjx_KF0gEwEEak2jtiMSckr4g0iIKNcvHhpx_.png?r=343",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXcJFcrlVGYDJ0MphxgGQrNfPFB-DVH_MuA-nzTLF2k2PHJKiWydx6zOJmDPZCm7mqldChxVzQPKOaqjPpQXbnzRlULK77YBHJQ.jpg?r=06e",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "2005",
+			"limit": 18,
+			"genre": "Comedy",
+			"isSeries": false
+        },
+		{
+            "title": "The Suit",
+            "description": "After a duo of slackers dress up as policemen for a costume party, they decide to prolong their disguise — not knowing that it will lead them to danger.",
+            "img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaEo_3cP4kYQ5QN1gD-I6l20WCAKRI6fo4zGt_2FgkHu650GBaNHFgJJU9yQOaJW725P_v-kv-7H6oyR4DaJYT_1zqb1IOK2juw.jpg?r=b42",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaDyP65GaPfwKAdkHTP0Tk2FdwfKyKU__gbPjkYxh2D2eGNaZ1ODPTd2TsamYAC3MNGby1VjM2JAxhqPKqO2D7ovQTueLdsttxQfeo2lPt4Q.png?r=1ee",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaEo_3cP4kYQ5QN1gD-I6l20WCAKRI6fo4zGt_2FgkHu650GBaNHFgJJU9yQOaJW725P_v-kv-7H6oyR4DaJYT_1zqb1IOK2juw.jpg?r=b42",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "2018",
+			"limit": 13,
+			"genre": "Comedy",
+			"isSeries": false
+        },
+		{
+            "title": "Johnny English Reborn",
+            "description": "Bumbling spy Johnny English sharpens his skills at a Tibetan monastery and returns to service to protect the Chinese premier from an assassin.",
+            "img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa9FPo7sCCK3KJVN5Q1zBSQFvrXzIBot8y0ggYWwfGCXAa9AWYK2f1e6ygfkAGWM7Cc6QCHcddcxv2YP1YIQtEqNiCVp2Q1p9JI.jpg?r=216",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABah_YsWRoZVD1dsiTUeaDjEPCjZne_nDsFQL71xQLpodtZez3a5LnrbguFXgV-MUYrbqOOZzAKMkxT8KXtf0UaUKan_u_HwaF832I-mESjOQ.png?r=7ac",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa9FPo7sCCK3KJVN5Q1zBSQFvrXzIBot8y0ggYWwfGCXAa9AWYK2f1e6ygfkAGWM7Cc6QCHcddcxv2YP1YIQtEqNiCVp2Q1p9JI.jpg?r=216",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "2011",
+			"limit": 13,
+			"genre": "Comedy",
+			"isSeries": false
+        },
+		{
+            "title": "The Mask",
+            "description": "A hapless bank teller discovers an ancient mask that turns him into a zany prankster who acts on his deepest desires.",
+            "img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf6CjBliRAqJ1k2c7RZl_uPT0DVQPGvZd9AKL_TK42DygdFKYB1hwCsMkpfr3fz11V0Z3yjd80O6WIHgqgYK6vkJCrVKd3-0OEU.jpg?r=35c",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaLtQmDvlgBq1a6f4cXw4IOguC9b5tjZdpZAQoKQKBVanFfw_EogfAEGYzaktG9g-YrCdZCMW7HuVna75jpu7bZIcGMFebWwTgKuyrKTnFp9.png?r=d2d",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf6CjBliRAqJ1k2c7RZl_uPT0DVQPGvZd9AKL_TK42DygdFKYB1hwCsMkpfr3fz11V0Z3yjd80O6WIHgqgYK6vkJCrVKd3-0OEU.jpg?r=35c",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "1994",
+			"limit": 13,
+			"genre": "Comedy/Fantasy",
+			"isSeries": false
+        }
+	]
+}
+
+
+/*Fantasy Movies List*/
+{
+	"movies":[
+		{
+			"title": "Jurassic World Dominion",
+			"description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.",
+			"img": "https://images6.alphacoders.com/123/1239922.jpg",
+			"imgTitle": "https://images.fanart.tv/fanart/jurassic-world-dominion-620fe4a25bdea.png",
+			"imgSmall": "https://images6.alphacoders.com/123/1239922.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 16,
+			"genre": "Science-Fiction/Fantasy",
+			"isSeries": false
+		},
+		{
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"imgTitle": "https://geekanything.com/wp-content/uploads/2021/01/83-830686_logopedia10-doctor-strange-in-the-multiverse-of-madness.png",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 16,
+			"genre": "Fantasy/Adventure",
+			"isSeries": false
+		},
+		{
+			"title": "Dragon Knight",
+			"description": "Many years after the war has been lost, and all the dragons slain, a lone knight travels the lands of Agonos seeking to raise an army against the demon lord Abaddon. When a healer's vision reveals that one dragon still lives, and together with an eager young squire, the knight sets off in search of the fabled creature. As the armies of Abaddon descend on the human kingdoms, the dragon is their last hope of fending off the horde, before it lays waste to the lands of men. But does the creature even exist? And if it does, will it fight for them once more?",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/uSMJbYhaEpQtF9vkMhpgljc0CA4.jpg",
+			"imgTitle": "https://lh3.googleusercontent.com/CLBelzS01K7kKVWtY9a1tNo9z0PX9G1zjgGfz0FuLLNlTqs14HL2UqTbFB0bjk9OTRp1Gqb_R88",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/uSMJbYhaEpQtF9vkMhpgljc0CA4.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 12,
+			"genre": "Fantasy/Action",
+			"isSeries": false
+			
+		},
+		{
+			"title": "The Princess",
+			"description": "A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+			"imgTitle": "https://m.media-amazon.com/images/M/MV5BMWYzYTY5ODQtMmY4YS00YWMxLTkyNDEtNmNjY2QxYzZlNTczXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2022",
+			"limit": 14,
+			"genre": "Fantasy/Action",
+			"isSeries": false
+		},
+		{
+            "title": "Spirited Away",
+            "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+			"img": "https://www.themoviedb.org/t/p/w440_and_h660_face/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+			"imgTitle": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-V39peP72UQich04BXjIqDoiM1BVEVGrHPOGRgZD9x9XNDkapHCEG8HMCQmb9K4vlEA&usqp=CAU",
+			"imgSmall": "https://www.themoviedb.org/t/p/w440_and_h660_face/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "",
+            "year": "2001",
+			"limit": 10,
+			"genre": "Animation/Fantasy",
+			"isSeries": false
+        },
+		{
+            "title": "The Mask",
+            "description": "A hapless bank teller discovers an ancient mask that turns him into a zany prankster who acts on his deepest desires.",
+            "img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf6CjBliRAqJ1k2c7RZl_uPT0DVQPGvZd9AKL_TK42DygdFKYB1hwCsMkpfr3fz11V0Z3yjd80O6WIHgqgYK6vkJCrVKd3-0OEU.jpg?r=35c",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaLtQmDvlgBq1a6f4cXw4IOguC9b5tjZdpZAQoKQKBVanFfw_EogfAEGYzaktG9g-YrCdZCMW7HuVna75jpu7bZIcGMFebWwTgKuyrKTnFp9.png?r=d2d",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf6CjBliRAqJ1k2c7RZl_uPT0DVQPGvZd9AKL_TK42DygdFKYB1hwCsMkpfr3fz11V0Z3yjd80O6WIHgqgYK6vkJCrVKd3-0OEU.jpg?r=35c",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+            "year": "1994",
+			"limit": 13,
+			"genre": "Comedy/Fantasy",
+			"isSeries": false
+        },
+		{
+			"title": "The Last Airbender",
+			"description": "In a world ravaged by the Fire nation's aggression toward the peaceful Air, Water and Earth nations, a young boy holds the key to restoring peace.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS_I4VeGJEeEste_0VoI-5K5IDzmLf_cg9fcyWLkq7bFwp_l2WMSC9IB4HRaK-Kyw3fZtH4UzSEqJXyPb0b2F4-mtRvJD4oZztc.jpg?r=aac",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYb5LBDrErWV_lyK4lX3ffFKAtCTTc9SSLTX1TKESTFm4bqhmVscu9AjwSIjOe8Mdhmlkm5r-arTjVVJiOScG9SIVJADJcyNMO5U047Hcg1v.png?r=229",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS_I4VeGJEeEste_0VoI-5K5IDzmLf_cg9fcyWLkq7bFwp_l2WMSC9IB4HRaK-Kyw3fZtH4UzSEqJXyPb0b2F4-mtRvJD4oZztc.jpg?r=aac",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2010",
+			"limit": 13,
+			"genre": "Adventure/Fantasy",
+			"isSeries": false
+		},
+		{
+			"title": "Man of Steel",
+			"description": "Drifter Clark Kent must keep his powers hidden from the world, but when an evil general plans to destroy Earth, the Man of Steel springs into action.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUzGkyZ4waFgk3JAsxasZI23mCmhHvuAvFgZ6aV0wc_NrOOR5iuSjGIPDpd80J9n2p30YTpBda_bmaMqbBu0AapiWoWFP-eAFyo.jpg?r=628",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXe0tvB3dg8v2RN1mmQNe3lhfz-3hZhXDwVvqQnYtgSVCJlImLcasjhCVEhES_4BaDJQ83RiOeSqnLY1gGfVvxdNosevYapzvqu2Ap59R5Ae.png?r=9ef",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUzGkyZ4waFgk3JAsxasZI23mCmhHvuAvFgZ6aV0wc_NrOOR5iuSjGIPDpd80J9n2p30YTpBda_bmaMqbBu0AapiWoWFP-eAFyo.jpg?r=628",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2013",
+			"limit": 13,
+			"genre": "Fantasy",
+			"isSeries": false
+		},
+		{
+			"title": "Assassin's Creed",
+			"description": "In this adaptation of the critically acclaimed video game franchise, a man on death row is rescued from execution by a mysterious organization.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSj1b-Yy5OHI0h6nCdOmZxyECYkI6-huX3Bn2lcTskTYGGmQpzVkJ5UPrSrZcZzPC7ofv6olqx4M_KmJnlEiYo6mjxN6jlF2fBU.jpg?r=299",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABWb-R2s6r6LrV954UsHYIAJUA45rqz7ikXl0jzAD-cfkKjRMmonOfnCprobmSNcmcWOyMEU3fVAjRbXYXLLrvzvuFT5jVZkqUTRNXAm2x1ma.png?r=eb4",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSj1b-Yy5OHI0h6nCdOmZxyECYkI6-huX3Bn2lcTskTYGGmQpzVkJ5UPrSrZcZzPC7ofv6olqx4M_KmJnlEiYo6mjxN6jlF2fBU.jpg?r=299",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2016",
+			"limit": 13,
+			"genre": "Fantasy",
+			"isSeries":false
+		},
+		{
+			"title": "Warcraft",
+			"description": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+			"img": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUoGLNuxkjcqCHORdRwdWkGdKkonA-X-6CxTIRIrmp1f9ncQ7D904JumhS8uRJf09hbz8KSsHjNRAE8aeawPadIXsY3R1gPkCBY.jpg?r=c10",
+			"imgTitle": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQo0IZbTs4dkMnf_ES2IVRGyKjsexzDV46LZXSU5PoHVIMulbPFim_kjAkGlbqRe7CICB6WWD-kPmLD_W-WI7fy480Wgo3dWPDsfBHY6ZOLx.png?r=ab4",
+			"imgSmall": "https://occ-0-3410-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUoGLNuxkjcqCHORdRwdWkGdKkonA-X-6CxTIRIrmp1f9ncQ7D904JumhS8uRJf09hbz8KSsHjNRAE8aeawPadIXsY3R1gPkCBY.jpg?r=c10",
+			"trailer": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"video": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761",
+			"year": "2016",
+			"limit": 18,
+			"genre": "Fantasy",
+			"isSeries": false
+		}
+	]
+}
